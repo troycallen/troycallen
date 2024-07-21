@@ -1,4 +1,4 @@
-## HELLO
-- I will make cool stuff soon yes
+## troy allen
+- I will be the goat
 - troycallen22@gmail.com
 
