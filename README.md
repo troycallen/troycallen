@@ -1,3 +1,1 @@
-## I will be the goat
-- troycallen22@gmail.com
-
+I will be the goat
