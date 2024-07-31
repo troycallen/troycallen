@@ -1,1 +1,1 @@
-I will be the goat soon
+the stereo sounds strange
