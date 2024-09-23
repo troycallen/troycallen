@@ -1,1 +1,1 @@
-the stereo sounds strange
+
