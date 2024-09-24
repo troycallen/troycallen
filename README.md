@@ -1,1 +1,1 @@
-local beam searcher
+stochastic beam searcher
