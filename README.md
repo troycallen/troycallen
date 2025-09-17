@@ -3,7 +3,7 @@ nickname:
   - bert
 currently_working_on:
   - goaldle
-  - enviroLLM
+  - enviro-llm
 currently_learning:
   - Rust 
   - CUDA (eternally)
