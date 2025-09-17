@@ -1,9 +1,10 @@
 ```yaml
-name: bert
+nickname:
+  - bert
 currently_working_on:
   - goaldle
   - enviroLLM
-currently learning:
+currently_learning:
   - Rust 
   - CUDA (eternally)
-website: https://troycallen.com/
+
