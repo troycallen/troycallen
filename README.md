@@ -1,5 +1,9 @@
-```bash
-> hi I'm bert
-> currently working on goaldle and enviroLLM
-> learning Rust and CUDA (eternally)
-> here's my website: https://troycallen.com/
+```yaml
+name: bert
+currently_working_on:
+  - goaldle
+  - enviroLLM
+currently learning:
+  - Rust 
+  - CUDA (eternally)
+website: https://troycallen.com/
